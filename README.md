@@ -1,3 +1,8 @@
+---
+title: Capstone Draft1
+description: Here's an early draft of what I did for my capstone
+---
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/patrickstuchlik/cap1/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
